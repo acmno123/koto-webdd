@@ -1,5 +1,5 @@
 'use client'
-import { motion } from 'framer-motion'
+import { motion } from 'framer-motion';
 
 const items = [
   {title: '公告系統', desc: '管理員可一鍵發布公告'},
